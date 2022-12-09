@@ -16,6 +16,8 @@ package tech.ada.banco;
 public class Banco {
     public static void main(String[] args) {
         System.out.println("Bem vindo ao banco Ada.");
+
+
 //        Pessoa pessoa1 = new Pessoa("Alan", "01234567783", "20/10/1992");
 //        Pessoa pessoa2 = new Pessoa("Fran", "10668792655", "11/03/1992", "34984076370");
 //        Pessoa pessoaLegal = new Pessoa("Junior", "12345678901", "20/01/1964");
